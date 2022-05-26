@@ -20,7 +20,7 @@ position: fixed;
 margin: auto;
 left: 0;
 right: 0;
-background-color: #1C0B36;
+background-color: #e8effa;
 }
 .top-apps {
 background: linear-gradient(45deg, rgba(76, 0, 231,.1) 0%, rgba(160, 47, 232,.6) 100%);
@@ -182,7 +182,7 @@ width: 120px;
 padding-top: 10px;
 padding-bottom: 10px;
 border-radius: 20px;
-background-color: #1C0B36;
+background-color: #111720;
 margin: 10px;
 display: inline-block;
 }
@@ -207,7 +207,7 @@ padding: 10px 17px 10px 37px;
 margin-bottom: 9px;
 margin: 10px;
 border-radius: 20px;
-color: #fff;
+color: #e8effa;
 outline: none;
 border: 2px solid rgba(160, 47, 232,.6);
 background: none;
