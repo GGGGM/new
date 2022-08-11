@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://143.110.216.133/ipas/Delta.ipa</string>
+					<string>https://winios.store/install-app/plist/store/f3254f0eca79111a7303.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Delta</string>
+				<string>Winios</string>
 			</dict>
 		</dict>
 	</array>
